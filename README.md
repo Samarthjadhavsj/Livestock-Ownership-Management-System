@@ -12,10 +12,10 @@ It uses the **Flask framework** for the backend, **MySQL** (via XAMPP) for datab
 -  Secure user authentication and password-based access  
 -  Product management for farmers  
 -  Responsive and mobile-friendly design  
-- ✉ Email validation and communication features  
+-  Email validation and communication features  
 -  Integration of modern libraries and plugins for UI enhancements
 
-## ⚙ Technologies & Tools Used
+##  Technologies & Tools Used
 
 ### Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ It uses the **Flask framework** for the backend, **MySQL** (via XAMPP) for datab
 
 - `static/` – Contains all static files such as CSS, JavaScript, images, and other assets used for the frontend design.  
 - `templates/` – Contains HTML templates rendered by Flask for the web pages.  
-- `Livestock-Report.pdf` – The complete project report document.  
-- `main.py` – The main Python application file; serves as the entry point for the Flask server.  
-- `farmers.sql` – MySQL database file containing tables and initial data for the project.  
-- `README.md` – This README file describing the project, its setup, and usage.
+- `Livestock-Report.pdf/` – The complete project report document.  
+- `main.py/` – The main Python application file; serves as the entry point for the Flask server.  
+- `farmers.sql/` – MySQL database file containing tables and initial data for the project.  
+- `README.md/` – This README file describing the project, its setup, and usage.
