@@ -1,19 +1,23 @@
 # Livestock Ownership Management System
 
 ## 📄 Project Report
-
-The full **Livestock Ownership Management System** report is available below:
-
-[📥 Download Project Report](./Livestock-Report.pdf)
+The complete project report is available below:  
+[📥 Download Report](./Livestock-Report.pdf)
 
 ## 🖥️ Project Overview
+**Livestock Ownership Management System** is a full-stack web application developed in **Python**.  
+It uses the **Flask framework** for the backend, **MySQL** (via XAMPP) for database management, and **Bootstrap** with **Jinja2** for the frontend.  
 
-This is a full-stack web application developed with Python programming. It leverages the Flask framework for the backend, MySQL as the database, Apache server (via XAMPP), and Bootstrap with Jinja2 for the frontend. Key features include secure authentication, product management, responsive design, email validation, and integration of modern libraries.
+Key features:  
+- Secure user authentication and password-based access  
+- Product management for farmers  
+- Responsive and mobile-friendly design  
+- Email validation and communication features  
+- Integration of modern libraries and plugins for UI enhancements
 
 ## ⚙️ Technologies Used
-
-- **Backend Framework:** Flask  
+- **Backend:** Flask  
 - **Database:** MySQL (via XAMPP)  
 - **Frontend:** HTML, CSS, Bootstrap, Jinja2  
-- **Libraries:** jQuery, Owl Carousel 2, VenoBox, AOS, Superfish, Font Awesome  
-- **IDE/Tools:** PyCharm, Sublime Text
+- **Libraries/Plugins:** jQuery, Owl Carousel 2, VenoBox, AOS, Superfish, Font Awesome  
+- **Tools/IDE:** PyCharm, Sublime Text
