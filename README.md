@@ -46,9 +46,10 @@ It uses the **Flask framework** for the backend, **MySQL** (via XAMPP) for datab
 ---
 ## 📁 Project Structure
 
-- `static/` – Contains all static files such as CSS, JavaScript, images, and other assets used for the frontend design.  
-- `templates/` – Contains HTML templates rendered by Flask for the web pages.  
-- `Livestock-Report.pdf/` – The complete project report document.  
-- `main.py/` – The main Python application file; serves as the entry point for the Flask server.  
-- `farmers.sql/` – MySQL database file containing tables and initial data for the project.  
-- `README.md/` – This README file describing the project, its setup, and usage.
+├── static/                  # Contains CSS, JavaScript, images, and other static assets for frontend design  
+├── templates/               # HTML templates used by Flask for rendering pages  
+├── Livestock-Report.pdf     # Complete project report document  
+├── main.py                  # Main Python application file (entry point for Flask server)  
+├── farmers.sql              # MySQL database file containing tables and initial data  
+├── README.md                # This README file describing project details and setup  
+
