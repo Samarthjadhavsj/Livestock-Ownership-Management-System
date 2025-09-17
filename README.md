@@ -46,10 +46,22 @@ It uses the **Flask framework** for the backend, **MySQL** (via XAMPP) for datab
 ---
 ## 📁 Project Structure
 
-├── static/                — Contains CSS, JavaScript, images, and other static assets for frontend design  
-├── templates/             — HTML templates used by Flask for rendering pages  
-├── Livestock-Report.pdf   — Complete project report document  
-├── main.py                — Main Python application file (entry point for Flask server)  
-├── farmers.sql            — MySQL database file containing tables and initial data  
-├── README.md              — This README file describing project details and setup  
+├── static/                                             — Contains CSS, JavaScript, images, and other static frontend assets  
+
+├── templates/                                          — HTML templates used by Flask for rendering pages  
+
+├── .gitignore                                          — Git ignore file to exclude unnecessary files from the repository  
+
+├── Farm-management-sysem-dbmsminiproject-main.code-workspace  — VS Code workspace file for the main project  
+
+├── Livestock-Report.pdf                                — Complete project report document  
+
+├── README.md                                           — This README file describing project details and setup  
+
+├── farmer system.code-workspace                        — VS Code workspace file for farmer system module  
+
+├── farmers.sql                                        — MySQL database file containing tables and initial data  
+
+├── main.py                                             — Main Python application file (entry point for Flask server)  
+  
 
