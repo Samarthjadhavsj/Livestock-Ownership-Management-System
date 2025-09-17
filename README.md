@@ -44,6 +44,17 @@ It uses the **Flask framework** for the backend, **MySQL** (via XAMPP) for datab
 ![Sublime Text](https://img.shields.io/badge/SublimeText-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ---
+---
+
+✅ This version:  
+- Includes **all tech logos/icons** (Python, Flask, MySQL, XAMPP, Bootstrap, Jinja2, libraries, IDEs).  
+- Has **folder structure exactly as you requested** with explanations.  
+- Clean, professional, and ready for GitHub.  
+
+If you want, I can **also add a “Screenshots/Demo placeholders” section** with Markdown images so your README looks like a complete portfolio project.  
+
+Do you want me to do that?
+
 
 ├── static/                  # Contains CSS, JavaScript, images, and other static assets for frontend design
 ├── templates/               # HTML templates used by Flask for rendering pages
@@ -51,3 +62,12 @@ It uses the **Flask framework** for the backend, **MySQL** (via XAMPP) for datab
 ├── main.py                  # Main Python application file (entry point for Flask server)
 ├── farmers.sql              # MySQL database file containing tables and initial data
 ├── README.md                # This README file describing project details and setup
+
+
+## 📁 Folder Structure
+---
+
+You can copy this block **as-is** into your README.md file under a "Folder Structure" or "Project Files" section.  
+
+If you want, I can now give you the **full README file with this section included** and all tech logos/icons professionally formatted. Do you want me to do that?
+
